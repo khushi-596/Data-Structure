@@ -1,0 +1,16 @@
+102 Khushi 8.45
+320 Sneha 8.65
+100 Danish 8.22
+315 Jay 8.1
+108 Diksha 8.23
+092 Janvi 8.5
+107 Rudra 9.3
+121 Abhi 7.2
+109 Arnav 8.0
+110 Vishwa 6.9
+111 Ananya 7.5
+112 Ritul 7.6
+316 Parul 8.3
+114 Vedanti 8.7
+314 Siddhi 7.0
+

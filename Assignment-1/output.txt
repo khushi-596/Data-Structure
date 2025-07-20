@@ -1,0 +1,49 @@
+
+Sorted by Roll No :
+Roll No	Name		SGPA
+92	Janvi		8.5
+100	Danish		8.22
+102	Khushi		8.45
+107	Rudra		9.3
+108	Diksha		8.23
+109	Arnav		8
+110	Vishwa		6.9
+111	Ananya		7.5
+112	Ritul		7.6
+114	Vedanti		8.7
+121	Abhi		7.2
+314	Siddhi		7
+315	Jay		8.1
+316	Parul		8.3
+320	Sneha		8.65
+
+Sorted by Name :
+Roll No	Name		SGPA
+121	Abhi		7.2
+111	Ananya		7.5
+109	Arnav		8
+100	Danish		8.22
+108	Diksha		8.23
+92	Janvi		8.5
+315	Jay		8.1
+102	Khushi		8.45
+316	Parul		8.3
+112	Ritul		7.6
+107	Rudra		9.3
+314	Siddhi		7
+320	Sneha		8.65
+114	Vedanti		8.7
+110	Vishwa		6.9
+
+Top 10 Students by SGPA :
+Roll No	Name		SGPA
+107	Rudra		9.3
+114	Vedanti		8.7
+320	Sneha		8.65
+92	Janvi		8.5
+102	Khushi		8.45
+316	Parul		8.3
+100	Danish		8.22
+108	Diksha		8.23
+315	Jay		8.1
+109	Arnav		8
